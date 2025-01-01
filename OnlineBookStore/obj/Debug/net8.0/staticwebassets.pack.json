@@ -1,0 +1,321 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\SnehaProjects\\OnlineBookStoreSolution\\OnlineBookStore\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\OnlineBookStore.bundle.scp.css",
+      "PackagePath": "staticwebassets\\OnlineBookStore.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\SnehaProjects\\OnlineBookStoreSolution\\OnlineBookStore\\wwwroot\\Images\\Products\\1e7b9ea9-88a9-4682-8cdc-604570172174.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\1e7b9ea9-88a9-4682-8cdc-604570172174.jpg"
+    },
+    {
+      "Id": "E:\\SnehaProjects\\OnlineBookStoreSolution\\OnlineBookStore\\wwwroot\\Images\\Products\\29f034d1-48da-4699-9b34-7a425ddedeb3.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\29f034d1-48da-4699-9b34-7a425ddedeb3.jpg"
+    },
+    {
+      "Id": "E:\\SnehaProjects\\OnlineBookStoreSolution\\OnlineBookStore\\wwwroot\\Images\\Products\\30f1739c-c420-4a3f-a910-b8ebaa807308.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\30f1739c-c420-4a3f-a910-b8ebaa807308.jpg"
+    },
+    {
+      "Id": "E:\\SnehaProjects\\OnlineBookStoreSolution\\OnlineBookStore\\wwwroot\\Images\\Products\\41ffe2c3-3f5c-4ecd-b365-822c9099d1bb.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\41ffe2c3-3f5c-4ecd-b365-822c9099d1bb.jpg"
+    },
+    {
+      "Id": "E:\\SnehaProjects\\OnlineBookStoreSolution\\OnlineBookStore\\wwwroot\\Images\\Products\\4e2c0c4a-0f23-43fe-bb70-a6fc1bc697b8.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\4e2c0c4a-0f23-43fe-bb70-a6fc1bc697b8.jpg"
+    },
+    {
+      "Id": "E:\\SnehaProjects\\OnlineBookStoreSolution\\OnlineBookStore\\wwwroot\\Images\\Products\\6632daa9-957b-4cf9-b515-37243ad82424.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\6632daa9-957b-4cf9-b515-37243ad82424.jpg"
+    },
+    {
+      "Id": "E:\\SnehaProjects\\OnlineBookStoreSolution\\OnlineBookStore\\wwwroot\\Images\\Products\\b55eb46e-7a2a-437e-8e8e-54560b4d8134.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\b55eb46e-7a2a-437e-8e8e-54560b4d8134.jpg"
+    },
+    {
+      "Id": "E:\\SnehaProjects\\OnlineBookStoreSolution\\OnlineBookStore\\wwwroot\\Images\\Products\\b9687113-b7a3-49df-8daf-c1b4d15a3ca5.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\b9687113-b7a3-49df-8daf-c1b4d15a3ca5.jpg"
+    },
+    {
+      "Id": "E:\\SnehaProjects\\OnlineBookStoreSolution\\OnlineBookStore\\wwwroot\\Images\\Products\\d8df9748-bbdf-4a21-ac61-eeaac87d2bc5.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\d8df9748-bbdf-4a21-ac61-eeaac87d2bc5.jpg"
+    },
+    {
+      "Id": "E:\\SnehaProjects\\OnlineBookStoreSolution\\OnlineBookStore\\wwwroot\\Images\\Products\\ddcf279b-d902-4c9e-9b03-bcc92b07502a.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\ddcf279b-d902-4c9e-9b03-bcc92b07502a.jpg"
+    },
+    {
+      "Id": "E:\\SnehaProjects\\OnlineBookStoreSolution\\OnlineBookStore\\wwwroot\\Images\\Products\\ea0c664f-dc63-4ef4-a88d-256c6a67ef66.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\ea0c664f-dc63-4ef4-a88d-256c6a67ef66.jpg"
+    },
+    {
+      "Id": "E:\\SnehaProjects\\OnlineBookStoreSolution\\OnlineBookStore\\wwwroot\\Images\\Products\\ecd4d141-fb98-444b-a069-6659f6cf90c0.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\ecd4d141-fb98-444b-a069-6659f6cf90c0.jpg"
+    },
+    {
+      "Id": "E:\\SnehaProjects\\OnlineBookStoreSolution\\OnlineBookStore\\wwwroot\\Images\\Products\\product-0\\496579b4-b124-473d-b068-45d6ede1ed4b.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\product-0\\496579b4-b124-473d-b068-45d6ede1ed4b.jpg"
+    },
+    {
+      "Id": "E:\\SnehaProjects\\OnlineBookStoreSolution\\OnlineBookStore\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\SnehaProjects\\OnlineBookStoreSolution\\OnlineBookStore\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\SnehaProjects\\OnlineBookStoreSolution\\OnlineBookStore\\wwwroot\\js\\Product.js",
+      "PackagePath": "staticwebassets\\js\\Product.js"
+    },
+    {
+      "Id": "E:\\SnehaProjects\\OnlineBookStoreSolution\\OnlineBookStore\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\SnehaProjects\\OnlineBookStoreSolution\\OnlineBookStore\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\SnehaProjects\\OnlineBookStoreSolution\\OnlineBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\SnehaProjects\\OnlineBookStoreSolution\\OnlineBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\SnehaProjects\\OnlineBookStoreSolution\\OnlineBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\SnehaProjects\\OnlineBookStoreSolution\\OnlineBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\SnehaProjects\\OnlineBookStoreSolution\\OnlineBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\SnehaProjects\\OnlineBookStoreSolution\\OnlineBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\SnehaProjects\\OnlineBookStoreSolution\\OnlineBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\SnehaProjects\\OnlineBookStoreSolution\\OnlineBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\SnehaProjects\\OnlineBookStoreSolution\\OnlineBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\SnehaProjects\\OnlineBookStoreSolution\\OnlineBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\SnehaProjects\\OnlineBookStoreSolution\\OnlineBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\SnehaProjects\\OnlineBookStoreSolution\\OnlineBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\SnehaProjects\\OnlineBookStoreSolution\\OnlineBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\SnehaProjects\\OnlineBookStoreSolution\\OnlineBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\SnehaProjects\\OnlineBookStoreSolution\\OnlineBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\SnehaProjects\\OnlineBookStoreSolution\\OnlineBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\SnehaProjects\\OnlineBookStoreSolution\\OnlineBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\SnehaProjects\\OnlineBookStoreSolution\\OnlineBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\SnehaProjects\\OnlineBookStoreSolution\\OnlineBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\SnehaProjects\\OnlineBookStoreSolution\\OnlineBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\SnehaProjects\\OnlineBookStoreSolution\\OnlineBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\SnehaProjects\\OnlineBookStoreSolution\\OnlineBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\SnehaProjects\\OnlineBookStoreSolution\\OnlineBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\SnehaProjects\\OnlineBookStoreSolution\\OnlineBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\SnehaProjects\\OnlineBookStoreSolution\\OnlineBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\SnehaProjects\\OnlineBookStoreSolution\\OnlineBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\SnehaProjects\\OnlineBookStoreSolution\\OnlineBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\SnehaProjects\\OnlineBookStoreSolution\\OnlineBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\SnehaProjects\\OnlineBookStoreSolution\\OnlineBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\SnehaProjects\\OnlineBookStoreSolution\\OnlineBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\SnehaProjects\\OnlineBookStoreSolution\\OnlineBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\SnehaProjects\\OnlineBookStoreSolution\\OnlineBookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\SnehaProjects\\OnlineBookStoreSolution\\OnlineBookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\SnehaProjects\\OnlineBookStoreSolution\\OnlineBookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\SnehaProjects\\OnlineBookStoreSolution\\OnlineBookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\SnehaProjects\\OnlineBookStoreSolution\\OnlineBookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\SnehaProjects\\OnlineBookStoreSolution\\OnlineBookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\SnehaProjects\\OnlineBookStoreSolution\\OnlineBookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\SnehaProjects\\OnlineBookStoreSolution\\OnlineBookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\SnehaProjects\\OnlineBookStoreSolution\\OnlineBookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\SnehaProjects\\OnlineBookStoreSolution\\OnlineBookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\SnehaProjects\\OnlineBookStoreSolution\\OnlineBookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\SnehaProjects\\OnlineBookStoreSolution\\OnlineBookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\SnehaProjects\\OnlineBookStoreSolution\\OnlineBookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\SnehaProjects\\OnlineBookStoreSolution\\OnlineBookStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\SnehaProjects\\OnlineBookStoreSolution\\OnlineBookStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\SnehaProjects\\OnlineBookStoreSolution\\OnlineBookStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\SnehaProjects\\OnlineBookStoreSolution\\OnlineBookStore\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\SnehaProjects\\OnlineBookStoreSolution\\OnlineBookStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\SnehaProjects\\OnlineBookStoreSolution\\OnlineBookStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\SnehaProjects\\OnlineBookStoreSolution\\OnlineBookStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\SnehaProjects\\OnlineBookStoreSolution\\OnlineBookStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\SnehaProjects\\OnlineBookStoreSolution\\OnlineBookStore\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\SnehaProjects\\OnlineBookStoreSolution\\OnlineBookStore\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\SnehaProjects\\OnlineBookStoreSolution\\OnlineBookStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\SnehaProjects\\OnlineBookStoreSolution\\OnlineBookStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.OnlineBookStore.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.OnlineBookStore.props",
+      "PackagePath": "build\\OnlineBookStore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.OnlineBookStore.props",
+      "PackagePath": "buildMultiTargeting\\OnlineBookStore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.OnlineBookStore.props",
+      "PackagePath": "buildTransitive\\OnlineBookStore.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

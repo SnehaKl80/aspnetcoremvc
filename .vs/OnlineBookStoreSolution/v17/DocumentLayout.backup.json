@@ -1,0 +1,175 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\SnehaProjects\\OnlineBookStoreSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6284969-CA8C-45AF-A22E-69C431D78B9B}|OnlineBookStore\\OnlineBookStore.csproj|e:\\snehaprojects\\onlinebookstoresolution\\onlinebookstore\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6284969-CA8C-45AF-A22E-69C431D78B9B}|OnlineBookStore\\OnlineBookStore.csproj|solutionrelative:onlinebookstore\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6284969-CA8C-45AF-A22E-69C431D78B9B}|OnlineBookStore\\OnlineBookStore.csproj|e:\\snehaprojects\\onlinebookstoresolution\\onlinebookstore\\wwwroot\\js\\product.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F6284969-CA8C-45AF-A22E-69C431D78B9B}|OnlineBookStore\\OnlineBookStore.csproj|solutionrelative:onlinebookstore\\wwwroot\\js\\product.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6284969-CA8C-45AF-A22E-69C431D78B9B}|OnlineBookStore\\OnlineBookStore.csproj|e:\\snehaprojects\\onlinebookstoresolution\\onlinebookstore\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6284969-CA8C-45AF-A22E-69C431D78B9B}|OnlineBookStore\\OnlineBookStore.csproj|solutionrelative:onlinebookstore\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6284969-CA8C-45AF-A22E-69C431D78B9B}|OnlineBookStore\\OnlineBookStore.csproj|e:\\snehaprojects\\onlinebookstoresolution\\onlinebookstore\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F6284969-CA8C-45AF-A22E-69C431D78B9B}|OnlineBookStore\\OnlineBookStore.csproj|solutionrelative:onlinebookstore\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFD1F300-42D1-4C33-93C5-2947CF140F4D}|DataAccess\\DataAccess.csproj|e:\\snehaprojects\\onlinebookstoresolution\\dataaccess\\data\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFD1F300-42D1-4C33-93C5-2947CF140F4D}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\data\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6284969-CA8C-45AF-A22E-69C431D78B9B}|OnlineBookStore\\OnlineBookStore.csproj|e:\\snehaprojects\\onlinebookstoresolution\\onlinebookstore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6284969-CA8C-45AF-A22E-69C431D78B9B}|OnlineBookStore\\OnlineBookStore.csproj|solutionrelative:onlinebookstore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFD1F300-42D1-4C33-93C5-2947CF140F4D}|DataAccess\\DataAccess.csproj|e:\\snehaprojects\\onlinebookstoresolution\\dataaccess\\data\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFD1F300-42D1-4C33-93C5-2947CF140F4D}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\data\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6284969-CA8C-45AF-A22E-69C431D78B9B}|OnlineBookStore\\OnlineBookStore.csproj|e:\\snehaprojects\\onlinebookstoresolution\\onlinebookstore\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6284969-CA8C-45AF-A22E-69C431D78B9B}|OnlineBookStore\\OnlineBookStore.csproj|solutionrelative:onlinebookstore\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6284969-CA8C-45AF-A22E-69C431D78B9B}|OnlineBookStore\\OnlineBookStore.csproj|e:\\snehaprojects\\onlinebookstoresolution\\onlinebookstore\\areas\\admin\\views\\product\\upserttest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6284969-CA8C-45AF-A22E-69C431D78B9B}|OnlineBookStore\\OnlineBookStore.csproj|solutionrelative:onlinebookstore\\areas\\admin\\views\\product\\upserttest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 95,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.js",
+              "DocumentMoniker": "E:\\SnehaProjects\\OnlineBookStoreSolution\\OnlineBookStore\\wwwroot\\js\\Product.js",
+              "RelativeDocumentMoniker": "OnlineBookStore\\wwwroot\\js\\Product.js",
+              "ToolTip": "E:\\SnehaProjects\\OnlineBookStoreSolution\\OnlineBookStore\\wwwroot\\js\\Product.js",
+              "RelativeToolTip": "OnlineBookStore\\wwwroot\\js\\Product.js",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwBUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-31T10:41:23.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\SnehaProjects\\OnlineBookStoreSolution\\OnlineBookStore\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "OnlineBookStore\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\SnehaProjects\\OnlineBookStoreSolution\\OnlineBookStore\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "OnlineBookStore\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T08:36:58.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "E:\\SnehaProjects\\OnlineBookStoreSolution\\DataAccess\\Data\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Data\\Repository\\ProductRepository.cs",
+              "ToolTip": "E:\\SnehaProjects\\OnlineBookStoreSolution\\DataAccess\\Data\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "DataAccess\\Data\\Repository\\ProductRepository.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T07:34:50.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "E:\\SnehaProjects\\OnlineBookStoreSolution\\OnlineBookStore\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "OnlineBookStore\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "E:\\SnehaProjects\\OnlineBookStoreSolution\\OnlineBookStore\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "OnlineBookStore\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8BAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T12:02:27.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\SnehaProjects\\OnlineBookStoreSolution\\OnlineBookStore\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "OnlineBookStore\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "E:\\SnehaProjects\\OnlineBookStoreSolution\\OnlineBookStore\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "OnlineBookStore\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-31T10:57:03.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\SnehaProjects\\OnlineBookStoreSolution\\OnlineBookStore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "OnlineBookStore\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\SnehaProjects\\OnlineBookStoreSolution\\OnlineBookStore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "OnlineBookStore\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEYAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-31T11:14:55.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "site.js",
+              "DocumentMoniker": "E:\\SnehaProjects\\OnlineBookStoreSolution\\OnlineBookStore\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "OnlineBookStore\\wwwroot\\js\\site.js",
+              "ToolTip": "E:\\SnehaProjects\\OnlineBookStoreSolution\\OnlineBookStore\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "OnlineBookStore\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-31T11:36:20.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "E:\\SnehaProjects\\OnlineBookStoreSolution\\DataAccess\\Data\\Repository\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Data\\Repository\\GenericRepository.cs",
+              "ToolTip": "E:\\SnehaProjects\\OnlineBookStoreSolution\\DataAccess\\Data\\Repository\\GenericRepository.cs",
+              "RelativeToolTip": "DataAccess\\Data\\Repository\\GenericRepository.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwBQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T10:52:29.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpsertTest.cshtml",
+              "DocumentMoniker": "E:\\SnehaProjects\\OnlineBookStoreSolution\\OnlineBookStore\\Areas\\Admin\\Views\\Product\\UpsertTest.cshtml",
+              "RelativeDocumentMoniker": "OnlineBookStore\\Areas\\Admin\\Views\\Product\\UpsertTest.cshtml",
+              "ToolTip": "E:\\SnehaProjects\\OnlineBookStoreSolution\\OnlineBookStore\\Areas\\Admin\\Views\\Product\\UpsertTest.cshtml",
+              "RelativeToolTip": "OnlineBookStore\\Areas\\Admin\\Views\\Product\\UpsertTest.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-31T07:06:17.269Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

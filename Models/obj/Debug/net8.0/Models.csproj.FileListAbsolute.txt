@@ -1,0 +1,12 @@
+E:\SnehaProjects\OnlineBookStoreSolution\Models\bin\Debug\net8.0\Models.deps.json
+E:\SnehaProjects\OnlineBookStoreSolution\Models\bin\Debug\net8.0\Models.dll
+E:\SnehaProjects\OnlineBookStoreSolution\Models\bin\Debug\net8.0\Models.pdb
+E:\SnehaProjects\OnlineBookStoreSolution\Models\obj\Debug\net8.0\Models.csproj.AssemblyReference.cache
+E:\SnehaProjects\OnlineBookStoreSolution\Models\obj\Debug\net8.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\SnehaProjects\OnlineBookStoreSolution\Models\obj\Debug\net8.0\Models.AssemblyInfoInputs.cache
+E:\SnehaProjects\OnlineBookStoreSolution\Models\obj\Debug\net8.0\Models.AssemblyInfo.cs
+E:\SnehaProjects\OnlineBookStoreSolution\Models\obj\Debug\net8.0\Models.csproj.CoreCompileInputs.cache
+E:\SnehaProjects\OnlineBookStoreSolution\Models\obj\Debug\net8.0\Models.dll
+E:\SnehaProjects\OnlineBookStoreSolution\Models\obj\Debug\net8.0\refint\Models.dll
+E:\SnehaProjects\OnlineBookStoreSolution\Models\obj\Debug\net8.0\Models.pdb
+E:\SnehaProjects\OnlineBookStoreSolution\Models\obj\Debug\net8.0\ref\Models.dll
